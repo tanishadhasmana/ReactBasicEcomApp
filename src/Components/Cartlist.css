@@ -1,0 +1,14 @@
+.cartcnt{
+    flex:2;
+    margin: 5px;
+    padding: 5px;
+    border: 2px solid black;
+    background-color: rgb(223, 140, 140);
+
+}
+
+.cartitem{
+    display: flex;
+    
+}
+
