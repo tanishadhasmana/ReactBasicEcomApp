@@ -1,6 +1,6 @@
 import React from 'react'
 import './Itemlist.css'
-import ItemCard from './ItemCard';
+import ItemCard from './Itemcard'
 
 const products = [
   {
