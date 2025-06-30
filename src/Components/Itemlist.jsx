@@ -34,7 +34,8 @@ function Itemlist() {
    <div className="itemcnt">{
 
     products.map(val => (
-      <ItemCard item={val}/>
+      <ItemCard  key={val.id} item={val}/>
+      // key-val.id
     ))
 }
 
